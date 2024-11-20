@@ -1,0 +1,6 @@
+{
+    "name": "${name}",
+    "description": "${description}",
+    "private": ${private},
+    "auto_init": true
+}

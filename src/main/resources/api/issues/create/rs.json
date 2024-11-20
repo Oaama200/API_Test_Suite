@@ -1,0 +1,8 @@
+{
+  "id": "type:Long",
+  "number": "type:Integer",
+  "title": "${title}",
+  "body": "${body}",
+  "state": "type:String",
+  "labels": "type:JSONArray"
+}

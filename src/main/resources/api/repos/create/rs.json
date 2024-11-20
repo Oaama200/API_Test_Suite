@@ -1,0 +1,19 @@
+{
+  "id": "type:Integer",
+  "name": "${name}",
+  "description": "${description}",
+  "private": ${private},
+"owner": {
+"login": "type:String",
+"id": "type:Integer"
+},
+"html_url": "type:String",
+"url": "type:String",
+"visibility": "type:String",
+"default_branch": "type:String",
+"permissions": {
+"admin": "type:Boolean",
+"push": "type:Boolean",
+"pull": "type:Boolean"
+}
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "${branch_name}",
+    "commit": {
+      "sha": "${commit_sha}",
+      "url": "${commit_url}"
+    },
+    "protected": false
+  }
+]

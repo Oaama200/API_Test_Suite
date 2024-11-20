@@ -1,0 +1,10 @@
+{
+  "id": "type:Integer",
+  "name": "type:String",
+  "description": "${description}",
+  "private": "type:Boolean",
+  "owner": {
+    "login": "type:String",
+    "id": "type:Integer"
+  }
+}

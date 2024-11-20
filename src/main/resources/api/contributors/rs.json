@@ -1,0 +1,9 @@
+[
+  {
+    "login": "type:String",
+    "id": "type:Integer",
+    "node_id": "type:String",
+    "type": "type:String",
+    "contributions": "type:Integer"
+  }
+]

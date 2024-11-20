@@ -1,0 +1,32 @@
+cat > .gitignore << EOL
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Build files
+target/
+build/
+bin/
+out/
+
+# Logs and reports
+logs/
+reports/
+*.log
+test-output/
+.allure/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven
+.mvn/
+*.versionsBackup
+
+# Test configuration
+*.properties
+EOL
