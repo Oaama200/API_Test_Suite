@@ -14,7 +14,7 @@ import org.skyscreamer.jsonassert.JSONCompareMode;
 public class GitHubAPITest extends AbstractTest {
     private static final String BASE_URL = "https://api.github.com";
     private static final String TOKEN = System.getProperty("github.token", "Mytoken");
-    private static final String USERNAME = "Oaama200";
+    private static final String USERNAME = "username";
 
     private String generateUniqueRepoName() {
         return "api-test-repo-" + System.currentTimeMillis();
